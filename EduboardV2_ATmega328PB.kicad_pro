@@ -458,8 +458,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "EduboardV2_ATmega328PB.step",
+      "vrml": "EduboardV2_ATmega328PB.wrl"
     },
     "page_layout_descr_file": ""
   },
