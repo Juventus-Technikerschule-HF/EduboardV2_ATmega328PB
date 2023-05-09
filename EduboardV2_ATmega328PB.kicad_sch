@@ -1755,6 +1755,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2f5b616e-3d80-4cf7-bb42-44be316b8cab)
   )
+  (text "Fehler\nMISO/UART default falsch\n" (at 67.31 168.91 90)
+    (effects (font (size 1.27 1.27) (color 255 0 0 1)) (justify right bottom))
+    (uuid 775d6e16-112b-4d27-a12b-7b8a169b9776)
+  )
 
   (global_label "USB_Debug_D+" (shape bidirectional) (at 264.16 33.02 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
